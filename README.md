@@ -47,15 +47,20 @@
 
 ---
 
+
 <!-- ═══════════════════════════════════════════════════════════════
      🗂 PROJECTS
 ═══════════════════════════════════════════════════════════════ -->
 
 ## 🗂 Projects
 
-* 🧾 [Bill Printing System](https://github.com/aravinda-dev2004/Bill-Printing-System) — A desktop application that helps small and medium businesses automate their billing process, replacing manual paperwork with a fast and accurate digital solution.
-* 🛡️ [Defence System](https://github.com/aravinda-dev2004/Defence-System) — A Java OOP demonstration simulating a central defence command center controlling multiple units (Helicopter, Tank, Submarine) using the Observer Pattern and Interfaces.
-* 🎮 [Gamer Hub](https://github.com/iCET-Computer-Engineering-Technology/gamer-hub-AIAA) — A collaborative web project built with a team at iCET Computer Engineering Technology.
+* 💊 [Pharmaczy — Pharmacy Inventory Management](https://github.com/aravinda-dev2004/Pharmaczy-JavaFx-CW) — A JavaFX desktop application for managing pharmacy operations including medicines, stock batches, suppliers, sales, and billing — built with Java 17, Maven, and MySQL using a clean MVC architecture.
+
+* 🛒 [Thoga Kade — POS System](https://github.com/aravinda-dev2004/Thoga-Kade) — A comprehensive Point of Sale application for grocery store management featuring customer management, item inventory, real-time order processing, and transaction history using Java and MySQL with Layered Architecture (DAO pattern).
+
+* 👥 [Customer Service API](https://github.com/aravinda-dev2004/customer-sv) — A RESTful backend built with Spring Boot for managing customer data, featuring full CRUD operations, Swagger UI documentation, Thymeleaf frontend, and a responsive Bootstrap 5 interface.
+
+* 🍔 [Burger Shop v2 — IHungry](https://github.com/aravinda-dev2004/Burger-Shop-v2) — A Java-based burger shop management system with order processing, real-time inventory tracking, customer management, and sales reports — built for speed, reliability, and future extensibility.
 
 ---
 
@@ -68,10 +73,10 @@
 ```js
 const aravinda = {
   languages:   ["Java", "JavaScript", "PHP", "Python", "HTML", "CSS", "Markdown", "PowerShell"],
-  frontend:    ["Angular", "AngularJS", ".NET", "HTML5", "CSS3"],
+  frontend:    ["Angular", "AngularJS", ".NET", "Thymeleaf", "Bootstrap 5"],
   mobile:      ["Flutter"],
-  backend:     ["Spring Boot", "Apache", "Apache Maven"],
-  databases:   ["Amazon DynamoDB"],
+  backend:     ["Spring Boot", "Spring MVC", "Apache Maven"],
+  databases:   ["MySQL", "Amazon DynamoDB"],
   design:      ["Figma", "Canva", "Blender", "Adobe Photoshop", "Illustrator", "After Effects", "Lightroom"],
   currentlyWorkingOn: ["Full Stack Web Apps", "Flutter Mobile Projects", "Java Spring APIs"]
 };
@@ -168,9 +173,7 @@ const aravinda = {
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aravinda-dev2004&icon=0&color=6" alt="Visit Count"/>
-</p>
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      🌊 FOOTER WAVE
