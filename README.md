@@ -48,28 +48,6 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     📊 GITHUB STATS
-═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aravinda-dev2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=94a3b8&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinda-dev2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=94a3b8&include_all_commits=true&count_private=true" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aravinda-dev2004&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aravinda-dev2004&theme=darkhub&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
      🗂 PROJECTS
 ═══════════════════════════════════════════════════════════════ -->
 
